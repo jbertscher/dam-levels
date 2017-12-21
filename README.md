@@ -8,3 +8,5 @@ I would like to analyse the available data in an attempt to:
 - Estimate how long will it take for us to get back to that 'sustainable' dam capacity, given different scenarios of water usage and weather conditions.
 
 Life has a way of getting in the way of our aims but I'll start small and see how far I get.
+
+The Jupyter Notebook 'dam-levels-exploratory-analysis' is best viewed on nbviewer [here]:(https://nbviewer.jupyter.org/github/jbertscher/dam-levels/blob/master/dam-levels-exploratory-analysis.ipynb)
