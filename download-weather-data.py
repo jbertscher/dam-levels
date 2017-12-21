@@ -18,7 +18,7 @@ def download_historic_weather_json(api_key, date, geo_location, file_location):
         f.write(parsed_json)
 
 if __name__ == "__main__":
-    print('Starting @ {0}'.format(str(datetime.now())))
+    print('Starting @ {0}'.format(str(datetime.datetime.now())))
 
     location = {'Theewaterskloof': '-34.078056,19.289167'}
     location2 = {'hottentots_holland': '-34.1005,18.9645',
@@ -49,7 +49,7 @@ if __name__ == "__main__":
                 time.sleep(60)
                 min_counter = 0
             if day_counter == 480:
-                print('Sleeping for 24 hours @ {0}'.format(str(datetime.now())))
+                print('Sleeping for 24 hours @ {0}'.format(str(datetime.datetime.now())))
                 time.sleep((60*60*24)+(60*5))
                 day_counter = 0
 
