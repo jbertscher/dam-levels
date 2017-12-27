@@ -3,7 +3,7 @@ import json
 import datetime
 import time
 
-with open('wu_api_key', 'r') as f:
+with open('wu_api_key.txt', 'r') as f:
     API_KEY = f.read()
 
 def get_historic_weather(api_key, date, geo_location):
