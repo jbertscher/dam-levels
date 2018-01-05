@@ -23,7 +23,7 @@ if __name__ == "__main__":
     # location = {'Theewaterskloof': '-34.078056,19.289167'}
     location = {'Matroosfontein': 'Matroosfontein'}
 
-    date = datetime.date(year = 2012, month = 1, day = 1)
+    date = datetime.date(year = 2012, month = 3, day = 21)
     
     day_counter = 0
     min_counter = 0
