@@ -24,7 +24,7 @@ if __name__ == "__main__":
     location = {'Matroosfontein': 'Matroosfontein'}
 
 
-    date = datetime.date(year = 2007, month = 1, day = 1)
+    date = datetime.date(year = 2008, month = 4, day = 24)
     
     end_date = datetime.date(year = 2012, month = 1, day = 1) #datetime.date.today()
     day_counter = 0
