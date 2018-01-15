@@ -20,13 +20,11 @@ def download_historic_weather_json(api_key, date, geo_location, file_location):
 if __name__ == "__main__":
     print('Starting @ {0}'.format(str(datetime.datetime.now())))
 
-    # location = {'Theewaterskloof': '-34.078056,19.289167', 'Matroosfontein': 'Matroosfontein'}
-    location = {'Matroosfontein': 'Matroosfontein'}
+    location = {'Theewaterskloof': '-34.078056,19.289167', 'Matroosfontein': 'Matroosfontein'}
 
-
-    date = datetime.date(year = 2010, month = 11, day = 9)
+    date = datetime.date(year = 2007, month = 1, day = 1)
     
-    end_date = datetime.date(year = 2012, month = 1, day = 1) #datetime.date.today()
+    end_date = atetime.date.today()
     day_counter = 0
     min_counter = 0
     for dam, loc in location.items():
