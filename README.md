@@ -6,8 +6,8 @@ My findings are outlined in a notebook, which is best viewed [here](https://nbvi
 
 __In summary, I find that:__
 - 'Day zero' will likely occur around 16 May 2018 at the time of writing, assuming current consumption levels and that the government does not step in before then (which they will).
-- At current consumption levels, 363GL<sup>*</sup> is the absolute minimum dam level needed going into next summer to avoid running out of water.
-- If we run out of water this year but have a good rainy season, we could expect the dams to reach the minimum required level to avoid running out next summer - 363GL, as mentioned in (2) above - in 4 months. In a bad year, it could take at least 2 rainy seasons.
-- If we want to have enough water in the dams to have some backup in case we have another bad winter, we need at least 443GL in the dams at the start of the next dry season in October this year. We could achieve this with one good wet season.
+- At current consumption levels, 363K ML<sup>*</sup> is the absolute minimum dam level needed going into next summer to avoid running out of water.
+- If we run out of water this year but have a good rainy season, we could expect the dams to reach the minimum required level to avoid running out next summer - 363K ML, as mentioned in (2) above - in 4 months. In a bad year, it could take at least 2 rainy seasons.
+- If we want to have enough water in the dams to have some backup in case we have another bad winter, we need at least 443K ML in the dams at the start of the next dry season in October this year. We could achieve this with one good wet season.
 
-*\* GL = "Giga-litres, or 1 billion litres"*
+*\* ML = "Giga-litres, or 1 billion litres"*
